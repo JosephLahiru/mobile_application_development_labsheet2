@@ -1,10 +1,12 @@
-package me.mtron.mobile_application_development_labsheet2;
+package me.mtron.mobile_application_development_labsheet2.example3and4;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.widget.TextView;
+
+import me.mtron.mobile_application_development_labsheet2.R;
 
 public class Activity2 extends AppCompatActivity {
 

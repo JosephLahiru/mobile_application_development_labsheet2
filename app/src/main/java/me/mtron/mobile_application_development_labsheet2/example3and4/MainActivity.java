@@ -1,4 +1,4 @@
-package me.mtron.mobile_application_development_labsheet2;
+package me.mtron.mobile_application_development_labsheet2.example3and4;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,6 +6,8 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+
+import me.mtron.mobile_application_development_labsheet2.R;
 
 public class MainActivity extends AppCompatActivity {
 
